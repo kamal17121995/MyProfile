@@ -1081,7 +1081,7 @@ footer a {
 
   .nav-close-btn {
     position: absolute;
-    background: url(../Images/close-btn1.PNG) no-repeat;
+    background: url(close-btn1.PNG) no-repeat;
     /* filter: var(--color-filter); */
     background-size: 15px;
     background-position: center;
@@ -1094,7 +1094,7 @@ footer a {
   }
 
   .nav-menu-btn {
-    background: url(../Images/menu-btn1.PNG) no-repeat;
+    background: url(menu-btn1.PNG) no-repeat;
     filter: var(--color-filter);
     background-size: 30px;
     background-position: center;
@@ -1103,7 +1103,6 @@ footer a {
     cursor: pointer;
     display: block;
   }
-
   /* Home section */
   .home .home-container .info {
     font-size: 0.8rem;
